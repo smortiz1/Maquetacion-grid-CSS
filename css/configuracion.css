@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #7FD2C9;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Inter', sans-serif;
+}
+
